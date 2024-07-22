@@ -1,0 +1,8 @@
+print("Enter your first number")
+num1=input()
+print("Enter your second number")
+num2=input()
+print("Enter your third number")
+num3=input()
+result=int(num1)*int(num2)*int(num3)
+print("Your result is",result)

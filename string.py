@@ -1,0 +1,15 @@
+mystr="arsalaan yafai is a good boy"
+print (len(mystr) )
+print(mystr[0:28:1])
+print("\n",mystr[::-1])
+var2="Arsalaanisagoodboy2"
+print(var2.isalnum())
+print(var2.isalpha() )
+print(var2.isalnum() )
+print(var2.endswith("2"))
+print(var2.count("a") )
+print(var2.capitalize())
+print(var2.lower())
+print(var2.find("boy"))
+print(var2.upper())
+print(var2.replace("a","is"))

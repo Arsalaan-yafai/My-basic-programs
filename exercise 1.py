@@ -1,0 +1,2 @@
+d1 = {"ARSALAAN":"BODY BUILDER","AHAD":"MOLSAHAB","FAHAD":"CHOR","TALIB":"GAMER","FARHAN":"TETA"}
+print(d1.get(input()))

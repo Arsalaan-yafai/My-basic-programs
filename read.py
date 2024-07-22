@@ -1,0 +1,10 @@
+a= open("arsalaan.txt")
+print(a.readline())
+print(a.readline())
+a.seek(15)
+print(a.readline())
+print(a.tell())
+print(a.readline())
+print(a.readline())
+a.close()
+
